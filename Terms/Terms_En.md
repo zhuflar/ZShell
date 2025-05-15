@@ -22,3 +22,5 @@ By using ZShell, you accept the following terms and conditions:
  Risk Acceptance:
  By downloading and using ZShell, you acknowledge and accept, by your own responsability all of the mentioned risks . 
  It is strongly recommended to make full backups, before performing any operation with this tool
+
+ 📘 [Read this in Spanish](Terms_Es.md)
