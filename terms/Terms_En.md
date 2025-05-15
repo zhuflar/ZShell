@@ -1,4 +1,4 @@
-# ZShell (English Terms)
+# ZShell (Terms and conditions)
 
 By using ZShell, you accept the following terms and conditions:
  
