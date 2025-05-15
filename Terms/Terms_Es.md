@@ -21,3 +21,5 @@ Términos y Condiciones de Uso:
  Aceptación de Riesgos: Al descargar y utilizar ZShell, usted reconoce y acepto que lo hace bajo su propio riesgo
  y discreción. Se recomienda realizar copias de seguridad completas antes de ejecutar cualquier operación
  con la herramienta.
+
+ 📘 [Leer en Inglés](Terms_En.md)
