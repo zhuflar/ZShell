@@ -9,10 +9,9 @@ Este software está protegido por leyes de derechos de autor y está destinado �
 
 📌 Comparativa de versiones
 
-ZShell Lite (v2.7): Versión gratuita con funciones básicas. Ideal para pruebas y para conocer la herramienta.
+- **ZShell Lite (v2.7)**: [Descargar versión gratuita](https://github.com/zhuflar/ZShell/blob/main/versions/ZShell-Lite.exe) – Versión gratuita con funciones básicas. Ideal para pruebas y para conocer la herramienta.
+- **ZShell PRO (v2.9)** (3,99 €): [Obtener la versión PRO](https://3663452263677.gumroad.com/l/pomzzd) – Versión actual completa con automatización, herramientas avanzadas y funciones extendidas.
+- **ZShell PRO con actualizaciones** (7,99 €): [Obtener la versión PRO con actualizaciones](https://3663452263677.gumroad.com/l/eywhj) – Incluye la versión actual + mejoras futuras + soporte por correo electrónico.
 
-ZShell PRO (3,99 €): Obtener la versión PRO – Versión actual completa con automatización, herramientas avanzadas y funciones extendidas.
-
-ZShell PRO con actualizaciones (7,99 €): Obtener la versión PRO – Incluye la versión actual + mejoras futuras + soporte por correo electrónico.
 
 📘 [Leer en Inglés ](README_EN.md)
