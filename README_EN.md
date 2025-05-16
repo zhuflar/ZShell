@@ -9,7 +9,7 @@ This software is protected under copyright laws and is intended for use only by 
 📌 Version comparison (plain text in English)
 - **ZShell Lite (v2.7)**: Free version with basic features. Ideal for testing and getting to know the tool.
 - **ZShell PRO** (€3.99): [Get the PRO version](https://3663452263677.gumroad.com/l/lkmyae) – Full current version with automation, advanced tools, and extended features.
-- **ZShell PRO with updates** (€7.99): Coming soon – Will include the current version + future improvements + email support.
+- **ZShell PRO with updates** [Get the PRO version](https://3663452263677.gumroad.com/l/nzeih): – Will include the current version + future improvements + email support.
 
 
 📘 [Read this in Spanish](README.md)   
