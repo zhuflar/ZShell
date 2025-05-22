@@ -13,5 +13,6 @@
 ## 🔮 Upcoming Version: 3.0
 
 - New script: **Process Explorer** – shows detailed information about running processes and resource usage.
+- Inclusion of the mstsc /v:<IP Address> command to use Remote Desktop.
 - Improvements to the interface and script organization.
 
