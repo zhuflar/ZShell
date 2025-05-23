@@ -12,7 +12,6 @@
 
 ## 🔮 Próxima versión: 3.0
 
-- Se añadirá el script **Process Explorer**, que mostrará información detallada sobre los procesos en ejecución y su consumo de recursos.
-- Inclusión del comando mstsc /v:<Dirección IP> para poder usar Escritorio Remoto.
+- Se añadirá el script **ZTasker**, que mostrará información detallada sobre los procesos en ejecución y su consumo de recursos.
 - Mejoras en la interfaz y organización de scripts.
 
